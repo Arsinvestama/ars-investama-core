@@ -1,0 +1,21 @@
+body{
+ background:#0f0f0f;
+ color:#fff;
+ font-family:sans-serif;
+}
+
+.ars-card{
+ background:#1c1c1c;
+ padding:20px;
+ border-radius:20px;
+ margin-bottom:15px;
+}
+
+.ars-btn{
+ background:#f5c518;
+ color:#000;
+ padding:10px;
+ border-radius:10px;
+ display:inline-block;
+ margin:5px;
+}
